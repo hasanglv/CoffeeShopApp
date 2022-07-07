@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.exe
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.deps.json
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.runtimeconfig.json
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.dll
+C:\Users\User\source\repos\Coffe Shop\bin\Debug\netcoreapp3.1\Coffe Shop.pdb
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe_Shop.Form1.resources
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.AssemblyInfo.cs
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.dll
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.pdb
+C:\Users\User\source\repos\Coffe Shop\obj\Debug\netcoreapp3.1\Coffe Shop.genruntimeconfig.cache
